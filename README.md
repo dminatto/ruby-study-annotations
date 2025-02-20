@@ -47,6 +47,7 @@ Here are some resources I've found helpful in my Ruby studies:
 - [Ruby Official Documentation](https://www.ruby-lang.org/en/documentation/)
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
 - [The Complete Ruby on Rails Developer Course](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course)
+- [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide)
 
 ---
 
